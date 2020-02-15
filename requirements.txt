@@ -1,1 +1,2 @@
 pynput==1.6.6
+auto-py-to-exe==2.6.6
