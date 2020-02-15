@@ -12,3 +12,6 @@ First install the library `pynput` available in `requirements.txt` file and then
 The keystrokes are printed (above) on terminal and saved into a file (below) by default called `log.txt`.
 
 ![log](imgs/log.png)
+
+## EXE
+Use `auto-py-to-exe` pip package to generate an EXE file using `onefile.pyw`.
